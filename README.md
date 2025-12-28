@@ -19,8 +19,6 @@
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=81B29A&center=true&vCenter=true&width=600&lines=%3E+Loading+profile...;%3E+Welcome+to+my+GitHub!;%3E+Full-Stack+Developer+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;%3E+Building+digital+experiences...;%3E+Press+START+to+continue!" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -36,21 +34,6 @@
 │  ORIGIN: Guarenas, Venezuela 🇻🇪                 │
 ╰─────────────────────────────────────────────────╯
 ```
-
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
-
-### 📊 `STATUS`
-
-```yaml
-HP:  ████████████████████ 100%  # Passion
-MP:  ████████████████░░░░  80%  # Coffee Level
-EXP: ██████████████░░░░░░  70%  # Experience
-STR: ████████████████████ 100%  # Problem Solving
-INT: █████████████████░░░  85%  # Learning
-```
-
-### 🎯 `CURRENT QUEST`
-> *"Building awesome digital experiences while studying Systems Engineering"*
 
 ---
 
@@ -81,54 +64,6 @@ INT: █████████████████░░░  85%  # Learni
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=F4F1DE)
 ![VS Code](https://img.shields.io/badge/VS_Code-81B29A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F2CC8F?style=for-the-badge&logo=figma&logoColor=black)
-
-</div>
-
----
-
-## 🏆 `> ACHIEVEMENTS UNLOCKED`
-
-<div align="center">
-
-| 🎮 Achievement | 📝 Description | ⭐ Rarity |
-|:-------------:|:--------------|:--------:|
-| 🎰 **Taquilla-Admin** | Sistema administrativo de lotería con React + Supabase | ⭐⭐⭐⭐⭐ |
-| 🍺 **La Cantina** | App móvil con React Native + Expo | ⭐⭐⭐⭐ |
-| 🎮 **Juego QR** | App interactiva con Flutter + minijuegos | ⭐⭐⭐⭐⭐ |
-| 🚗 **SOS Grúa** | Plataforma web de servicios con PHP | ⭐⭐⭐ |
-| 🌴 **Turismo Sensorial** | Web de turismo accesible con React | ⭐⭐⭐⭐ |
-
-</div>
-
----
-
-## 📈 `> STATS`
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Danirodrigzz&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=81b29a&icon_color=e07a5f&text_color=f4f1de&border_color=81b29a" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Danirodrigzz&theme=dark&background=1a1a2e&ring=81b29a&fire=e07a5f&currStreakLabel=f4f1de&border=81b29a" />
-
-</div>
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danirodrigzz&layout=compact&theme=dark&bg_color=1a1a2e&title_color=81b29a&text_color=f4f1de&border_color=81b29a)
-
-</div>
-
----
-
-## 🎵 `> NOW PLAYING`
-
-<div align="center">
-
-```
-┌───────────────────────────────────────┐
-│  🎵 Fun Fact: I'm also a musician!   │
-│     Code by day, music by night 🎸    │
-└───────────────────────────────────────┘
-```
 
 </div>
 
@@ -175,7 +110,3 @@ INT: █████████████████░░░  85%  # Learni
 ![Visitor Count](https://komarev.com/ghpvc/?username=Danirodrigzz&color=81b29a&style=for-the-badge&label=VISITORS)
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              🎮 GAME OVER 🎮                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->

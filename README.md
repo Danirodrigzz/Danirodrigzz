@@ -79,14 +79,14 @@
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
 ║   📧 Email:    natachaa0424@gmail.com                     ║
-║   💼 LinkedIn: linkedin.com/in/tu-perfil                  ║
-║   🌐 Portfolio: (Coming Soon!)                            ║
+║   💼 LinkedIn: linkedin.com/in/daniela-rodríguez          ║
+║   🐙 GitHub:   github.com/Danirodrigzz                    ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
 [![Email](https://img.shields.io/badge/Email-E07A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natachaa0424@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-81B29A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-81B29A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-rodríguez-61576231a)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=F4F1DE)](https://github.com/Danirodrigzz)
 
 </div>
@@ -110,3 +110,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Danirodrigzz&color=81b29a&style=for-the-badge&label=VISITORS)
 
 </div>
+

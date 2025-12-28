@@ -107,7 +107,5 @@
 ╰──────────────────────────────────────────────────────────╯
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Danirodrigzz&color=81b29a&style=for-the-badge&label=VISITORS)
-
 </div>
 

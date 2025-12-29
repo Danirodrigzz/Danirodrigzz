@@ -64,10 +64,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=F4F1DE)
 ![VS Code](https://img.shields.io/badge/VS_Code-81B29A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F2CC8F?style=for-the-badge&logo=figma&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
+
+
 
 ## 📬 `> CONNECT`
 
@@ -86,7 +89,7 @@
 ```
 
 [![Email](https://img.shields.io/badge/Email-E07A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natachaa0424@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-81B29A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-rodríguez-61576231a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-81B29A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-rodr%C3%ADguez-61576231a/)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=F4F1DE)](https://github.com/Danirodrigzz)
 
 </div>
@@ -108,4 +111,5 @@
 ```
 
 </div>
+
 
